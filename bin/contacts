@@ -1,4 +1,4 @@
-ruby bin/contactsrequire_relative "../lib/contacts.rb"
+require_relative "../lib/contacts.rb"
 
 contacts = {
    "Jon Snow" => {
